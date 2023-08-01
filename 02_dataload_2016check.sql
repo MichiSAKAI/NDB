@@ -27,6 +27,10 @@ WITH  (FORMAT CSV
 );
 COMMIT;
 
+----
+--test
+----
+
 BEGIN;
 -- COPY dpc.d_re(
 --    d_abs_no,
